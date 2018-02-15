@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138801720884",
+    "firebase_url": "https://caapp-8d500.firebaseio.com",
+    "project_id": "caapp-8d500",
+    "storage_bucket": "caapp-8d500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138801720884:android:c60a913fe64bba96",
+        "android_client_info": {
+          "package_name": "ph.CaApp.nograles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138801720884-bsqkth4ost9v6pirudrfbglq47l9ul8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtvi7iJQi9Njckhvftnqzy9ngg0Hny4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
